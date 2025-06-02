@@ -22,7 +22,7 @@ const theme = responsiveFontSizes(
         contrastText: "#000",
       },
       background: {
-        default: "#89cff0", // Light Indiana Flag Gold
+        default: "#89cff0", // Light Indiana Flag Blue
         paper: "#dddddd",
       },
     },
